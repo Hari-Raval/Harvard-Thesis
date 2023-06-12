@@ -1,8 +1,12 @@
 # Harvard Masters Thesis
 
-## Title: One Shot Transfer Learning of Linear and Ordinary Partial Differential Equations
+## Title:
 
-## Advisor: Dr. Pavlos Protopapas
+One Shot Transfer Learning of Linear and Ordinary Partial Differential Equations
+
+## Advisor:
+
+Dr. Pavlos Protopapas
 
 ## Abstract:
 
